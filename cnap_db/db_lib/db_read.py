@@ -5,11 +5,8 @@ from collections import defaultdict
 import ast
 
 """
-    
     Objects have a index member that is not used and is not well defined a lot of the time!!!!
-    
 """
-
 
 # A class to represent a CNAP entry.
 # It exposes a dictionary-like interface to the metadata and provides methods to load data from the entry folder.
