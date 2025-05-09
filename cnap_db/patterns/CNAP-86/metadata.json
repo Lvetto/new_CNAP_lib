@@ -1,0 +1,42 @@
+{
+  "name": "edge_17",
+  "tags": [],
+  "folder": "patterns/CNAP-86",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    2,
+    4,
+    4,
+    2
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 4,
+    "D1(ref,BCC)-bcc-cube100": 16,
+    "D1(ref,BCC)-bcc-cube111": 9
+  },
+  "id": "CNAP-86"
+}

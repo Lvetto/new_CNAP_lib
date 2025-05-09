@@ -1,0 +1,79 @@
+{
+  "name": "join_8",
+  "tags": [],
+  "folder": "patterns/CNAP-55",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      5,
+      5,
+      5
+    ]
+  ],
+  "frequencies": [
+    2,
+    8,
+    1,
+    1
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo030": 1,
+    "D2(Glo, Au200)-glo030": 1,
+    "D2(Glo, Au310)-glo058": 1,
+    "D2(Glo, Au310)-glo054": 1,
+    "D2(Glo, Au310)-glo060": 1,
+    "D2(Glo, Au310)-glo008": 1,
+    "D2(Glo, Au310)-glo057": 1,
+    "D2(Glo, Au310)-glo016": 1,
+    "D2(Glo, Au310)-glo035": 1,
+    "D2(Glo, Au310)-glo012": 1,
+    "D2(Glo, Au310)-glo017": 1,
+    "D2(Glo, Au310)-glo014": 1,
+    "D2(Glo, Au310)-glo018": 1,
+    "D2(Glo, Au310)-glo019": 1,
+    "D2(Glo, Au310)-glo052": 1,
+    "D2(Glo, Au310)-glo061": 1,
+    "D2(Glo, Au310)-glo011": 1,
+    "D2(Glo, Au310)-glo009": 1,
+    "D2(Glo, Au310)-glo015": 1,
+    "D2(Glo, Au310)-glo013": 1,
+    "D2(Glo, Au310)-glo055": 1,
+    "D2(Glo, Au310)-glo053": 1,
+    "D2(Glo, Au310)-glo010": 1,
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-900_18": 6,
+    "D3(Coal, Au)-2730_1": 17,
+    "D3(Coal, Au)-2830_1": 17,
+    "D3(Coal, Au)-2338_24": 3,
+    "D3(Coal, Au)-456_4": 7,
+    "D3(Coal, Au)-883_7": 3,
+    "D3(Coal, Au)-202_1": 4,
+    "D3(Coal, Au)-2338_5": 6,
+    "D3(Coal, Au)-1746_7": 4,
+    "D3(Coal, Au)-2829_20": 5,
+    "D3(Coal, Au)-2730_20": 3,
+    "D3(Coal, Au)-2730_12": 3,
+    "D3(Coal, Au)-102_1": 1,
+    "D3(Coal, Cu)-Cu39_fromcoal.xyz": 1,
+    "D3(Melted_new, Al)-Al-melted": 1,
+    "D3(Melted_new_new, Al)-Al-melted": 1
+  },
+  "id": "CNAP-55"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "join_20",
+  "tags": [],
+  "folder": "patterns/CNAP-67",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    3,
+    1,
+    4,
+    1,
+    2,
+    1
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-2730_1": 1,
+    "D3(Coal, Au)-2830_1": 1,
+    "D3(Coal, Au)-2338_24": 1,
+    "D3(Coal, Au)-883_7": 2,
+    "D3(Coal, Au)-2829_20": 1,
+    "D3(Coal, Au)-2730_12": 1,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-67"
+}

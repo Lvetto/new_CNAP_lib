@@ -1,0 +1,73 @@
+{
+  "name": "surf_6",
+  "tags": [],
+  "folder": "patterns/CNAP-13",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    4,
+    4
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,FCC)-fcc-cube100": 183,
+    "D1(ref,FCC)-fcc-cube110": 126,
+    "D1(ref,FCC)-fcc-cube111": 48,
+    "D1(geom,Au)-Au147_InoDh": 20,
+    "D1(geom,Au)-Au250_spcube_r1": 30,
+    "D1(geom,Au)-Au565_fromTO2": 12,
+    "D1(geom,Au)-Au236_spmdh_r1": 10,
+    "D1(geom,Au)-Au822_Sph211_r15": 26,
+    "D1(geom,Au)-Au835_Sph100_r15": 17,
+    "D1(geom,Au)-Au888_Dh572_rlx": 75,
+    "D1(geom,Au)-Au531_MDh462": 40,
+    "D1(geom,Au)-Au520_MDh343": 10,
+    "D1(geom,Au)-Au585_MDh542": 30,
+    "D1(geom,Au)-Au567_fromTO11-3": 9,
+    "D1(geom,Au)-Au887_MDh453_rlx": 30,
+    "D1(geom,Au)-Au524_sphereDh_r126": 5,
+    "D1(geom,Au)-Au561_InoDh": 80,
+    "D1(geom,Au)-Au561_Co": 96,
+    "D1(geom,Au)-Au811_Sph100_r15": 18,
+    "D1(geom,Au)-Au831_MDh642": 40,
+    "D1(geom,Au)-Au1415_InoDh": 180,
+    "D1(geom,Au)-Au810_Sph211_r15": 34,
+    "D1(geom,Au)-Au807_TO11-3": 24,
+    "D1(geom,Au)-Au147_Co": 24,
+    "D1(geom,Au)-Au236_spTo_r1": 24,
+    "D1(geom,Au)-Au192_MDh332": 5,
+    "D1(geom,Au)-Au561Dh_rlx": 80,
+    "D1(geom,Au)-Au1415_Co": 216,
+    "D1(geom,Cu)-Cu389_Mdh442": 20,
+    "D1(geom,Cu)-Cu579_cubic_quenched": 6,
+    "D1(geom,Cu)-Cu192_MDh_322": 5,
+    "D1(geom,Cu)-Cu201_To": 6,
+    "D1(geom,Cu)-Cu405_To": 24,
+    "D1(geom,Cu)-Cu586_To": 24,
+    "D2(Glo, Cu)-Cu190_bh": 5,
+    "D3(Coal, Au)-900_18": 3,
+    "D3(Coal, Au)-2730_1": 7,
+    "D3(Coal, Au)-2830_1": 11,
+    "D3(Coal, Au)-2338_24": 8,
+    "D3(Coal, Au)-2338_5": 2,
+    "D3(Coal, Au)-1746_7": 2,
+    "D3(Coal, Au)-202_24": 2,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 14,
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 43,
+    "D3(Evolved, Cu)-Cu561_InoDh_evolved300K": 79,
+    "D3(Melted, Cu)-Cu561_InoDh_evolved300K": 79
+  },
+  "id": "CNAP-13"
+}

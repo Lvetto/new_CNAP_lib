@@ -1,0 +1,25 @@
+{
+  "name": "edge_7",
+  "tags": [],
+  "folder": "patterns/CNAP-12",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    4
+  ],
+  "coordination": 4,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,SC)-sc-cube111": 24,
+    "D1(ref,SC)-sc-cube110": 104,
+    "D1(ref,SC)-sc-cube100": 72,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-12"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "surf_20",
+  "tags": [],
+  "folder": "patterns/CNAP-98",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    2
+  ],
+  "coordination": 2,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,FCC)-fcc-cube110": 2,
+    "D1(ref,FCC)-fcc-cube111": 3
+  },
+  "id": "CNAP-98"
+}

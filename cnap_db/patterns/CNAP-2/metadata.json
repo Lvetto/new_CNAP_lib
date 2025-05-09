@@ -1,0 +1,24 @@
+{
+  "name": "SC-bulk",
+  "tags": [],
+  "folder": "patterns/CNAP-2",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    6
+  ],
+  "coordination": 6,
+  "description": "The structure found in a Simple Cubic bulk",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,SC)-sc-cube111": 56,
+    "D1(ref,SC)-sc-cube110": 224,
+    "D1(ref,SC)-sc-cube100": 216
+  },
+  "id": "CNAP-2"
+}

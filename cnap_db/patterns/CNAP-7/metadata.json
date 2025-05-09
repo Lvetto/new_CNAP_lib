@@ -1,0 +1,42 @@
+{
+  "name": "edge-03",
+  "tags": [],
+  "folder": "patterns/CNAP-7",
+  "cna_sequence": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    4,
+    2,
+    1,
+    1
+  ],
+  "coordination": 8,
+  "description": "A pattern found on some edges",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 1,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 17,
+    "D3(Coal_new, Cu)-Cu39_fromcoal.xyz": 3
+  },
+  "id": "CNAP-7"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "join_26",
+  "tags": [],
+  "folder": "patterns/CNAP-73",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    3,
+    2,
+    2,
+    1
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo000": 3,
+    "D2(Glo, Au200)-glo000": 3,
+    "D2(Glo, Au310)-glo001": 1,
+    "D3(Coal, Au)-1746_7": 1,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 1,
+    "D3(Melted_new, Cu)-Cu63_melted": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-73"
+}

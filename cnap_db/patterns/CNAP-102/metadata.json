@@ -1,0 +1,40 @@
+{
+  "name": "surf_27",
+  "tags": [],
+  "folder": "patterns/CNAP-102",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    3,
+    1,
+    1
+  ],
+  "coordination": 6,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Melted_new, Cu)-Cu38_melted": 1
+  },
+  "id": "CNAP-102"
+}

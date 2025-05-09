@@ -1,0 +1,53 @@
+{
+  "name": "surf_37",
+  "tags": [],
+  "folder": "patterns/CNAP-107",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    1,
+    3,
+    2,
+    1,
+    1,
+    1
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-900_18": 1,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 8
+  },
+  "id": "CNAP-107"
+}

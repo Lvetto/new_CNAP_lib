@@ -1,0 +1,36 @@
+{
+  "name": "surf_14",
+  "tags": [],
+  "folder": "patterns/CNAP-82",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    4,
+    1,
+    4
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 45,
+    "D1(ref,BCC)-bcc-cube100": 74,
+    "D1(ref,BCC)-bcc-cube111": 18
+  },
+  "id": "CNAP-82"
+}

@@ -1,0 +1,96 @@
+{
+  "name": "join_10",
+  "tags": [],
+  "folder": "patterns/CNAP-57",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    1,
+    3,
+    1,
+    3,
+    1
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo039": 1,
+    "D2(Glo, Au)-glo035": 1,
+    "D2(Glo, Au)-glo046": 1,
+    "D2(Glo, Au)-glo038": 1,
+    "D2(Glo, Au)-glo032": 1,
+    "D2(Glo, Au)-glo036": 1,
+    "D2(Glo, Au)-glo033": 1,
+    "D2(Glo, Au)-glo031": 1,
+    "D2(Glo, Au)-glo037": 1,
+    "D2(Glo, Au)-glo034": 2,
+    "D2(Glo, Au)-glo040": 2,
+    "D2(Glo, Au200)-glo039": 1,
+    "D2(Glo, Au200)-glo035": 1,
+    "D2(Glo, Au200)-glo046": 1,
+    "D2(Glo, Au200)-glo038": 1,
+    "D2(Glo, Au200)-glo032": 1,
+    "D2(Glo, Au200)-glo036": 1,
+    "D2(Glo, Au200)-glo033": 1,
+    "D2(Glo, Au200)-glo031": 1,
+    "D2(Glo, Au200)-glo037": 1,
+    "D2(Glo, Au200)-glo034": 2,
+    "D2(Glo, Au200)-glo040": 2,
+    "D2(Glo, Au310)-glo058": 1,
+    "D2(Glo, Au310)-glo060": 1,
+    "D2(Glo, Au310)-glo026": 1,
+    "D2(Glo, Au310)-glo008": 2,
+    "D2(Glo, Au310)-glo057": 1,
+    "D2(Glo, Au310)-glo025": 1,
+    "D2(Glo, Au310)-glo056": 2,
+    "D2(Glo, Au310)-glo006": 2,
+    "D2(Glo, Au310)-glo041": 2,
+    "D2(Glo, Au310)-glo061": 1,
+    "D2(Glo, Au310)-glo007": 1,
+    "D2(Glo, Au310)-glo009": 1,
+    "D2(Glo, Au310)-glo022": 2,
+    "D2(Glo, Au310)-glo003": 1,
+    "D2(Glo, Au310)-glo059": 1,
+    "D2(Glo, Au310)-glo004": 1,
+    "D2(Glo, Au310)-glo040": 1,
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-2730_1": 10,
+    "D3(Coal, Au)-2830_1": 11,
+    "D3(Coal, Au)-2338_24": 2,
+    "D3(Coal, Au)-883_7": 1,
+    "D3(Coal, Au)-202_1": 2,
+    "D3(Coal, Au)-2338_5": 6,
+    "D3(Coal, Au)-1746_7": 14,
+    "D3(Coal, Au)-2829_20": 7,
+    "D3(Coal, Au)-2730_20": 7,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 1,
+    "D3(Coal, Au)-2730_12": 4
+  },
+  "id": "CNAP-57"
+}

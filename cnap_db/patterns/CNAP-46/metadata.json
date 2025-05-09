@@ -1,0 +1,75 @@
+{
+  "name": "rec?_2",
+  "tags": [],
+  "folder": "patterns/CNAP-46",
+  "cna_sequence": [
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    2,
+    4,
+    2,
+    2
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Au)-Au236_spmdh_r1": 15,
+    "D1(geom,Au)-Au888_Dh572_rlx": 30,
+    "D1(geom,Au)-Au531_MDh462": 25,
+    "D1(geom,Au)-Au520_MDh343": 20,
+    "D1(geom,Au)-Au585_MDh542": 15,
+    "D1(geom,Au)-Au887_MDh453_rlx": 25,
+    "D1(geom,Au)-Au146_MDh322": 5,
+    "D1(geom,Au)-Au831_MDh642": 15,
+    "D1(geom,Au)-Au80_mDh_113": 5,
+    "D1(geom,Au)-Au550_MDh234": 20,
+    "D1(geom,Au)-Au192_MDh332": 10,
+    "D1(geom,Cu)-Cu146_Mdh322": 5,
+    "D1(geom,Cu)-Cu389_Mdh442": 15,
+    "D1(geom,Cu)-Cu192_MDh_322": 10,
+    "D1(geom,Cu)-Cu75_Dh": 5,
+    "D2(Glo, Au)-glo002": 1,
+    "D2(Glo, Au200)-glo002": 1,
+    "D2(Glo, Cu)-Cu190_bh": 9,
+    "D2(Glo, Cu)-Cu210_bh": 1,
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-900_18": 2,
+    "D3(Coal, Au)-2730_1": 4,
+    "D3(Coal, Au)-2830_1": 4,
+    "D3(Coal, Au)-2338_24": 12,
+    "D3(Coal, Au)-456_4": 1,
+    "D3(Coal, Au)-883_7": 2,
+    "D3(Coal, Au)-2338_5": 9,
+    "D3(Coal, Au)-1746_7": 7,
+    "D3(Coal, Au)-202_24": 3,
+    "D3(Coal, Au)-2829_20": 4,
+    "D3(Coal, Au)-2730_20": 8,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 10,
+    "D3(Coal, Au)-2730_12": 7,
+    "D3(Melted_new, Cu)-Cu75_melted": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 2,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-46"
+}

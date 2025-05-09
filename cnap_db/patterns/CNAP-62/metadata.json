@@ -1,0 +1,52 @@
+{
+  "name": "join_15",
+  "tags": [],
+  "folder": "patterns/CNAP-62",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    1,
+    4,
+    5
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Au)-Au822_Sph211_r15": 26,
+    "D1(geom,Au)-Au835_Sph100_r15": 72,
+    "D1(geom,Au)-Au811_Sph100_r15": 40,
+    "D1(geom,Au)-Au810_Sph211_r15": 16,
+    "D1(geom,Cu)-Cu579_cubic_quenched": 2,
+    "D1(geom,Cu)-Cu568_cubic_quenched": 2,
+    "D3(Coal, Au)-900_18": 4,
+    "D3(Coal, Au)-2730_1": 12,
+    "D3(Coal, Au)-2830_1": 10,
+    "D3(Coal, Au)-2338_24": 1,
+    "D3(Coal, Au)-456_4": 1,
+    "D3(Coal, Au)-883_7": 9,
+    "D3(Coal, Au)-2338_5": 3,
+    "D3(Coal, Au)-1746_7": 8,
+    "D3(Coal, Au)-202_24": 1,
+    "D3(Coal, Au)-2829_20": 11,
+    "D3(Coal, Au)-2730_20": 23,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 3,
+    "D3(Coal, Au)-2730_12": 29
+  },
+  "id": "CNAP-62"
+}

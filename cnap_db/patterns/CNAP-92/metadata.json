@@ -1,0 +1,46 @@
+{
+  "name": "surf_18",
+  "tags": [],
+  "folder": "patterns/CNAP-92",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2,
+    2,
+    2
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube111": 9
+  },
+  "id": "CNAP-92"
+}

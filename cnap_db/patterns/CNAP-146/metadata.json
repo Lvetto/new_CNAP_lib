@@ -1,0 +1,56 @@
+{
+  "name": "quenched?_26",
+  "tags": [],
+  "folder": "patterns/CNAP-146",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2,
+    1,
+    2
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu568_cubic_quenched": 2,
+    "D2(Glo, Au)-glo038": 1,
+    "D2(Glo, Au)-glo037": 1,
+    "D2(Glo, Au200)-glo038": 1,
+    "D2(Glo, Au200)-glo037": 1,
+    "D2(Glo, Au310)-glo060": 1,
+    "D2(Glo, Au310)-glo035": 1,
+    "D2(Glo, Au310)-glo046": 1,
+    "D2(Glo, Au310)-glo061": 1,
+    "D2(Glo, Au310)-glo036": 1,
+    "D3(Coal, Au)-1746_7": 1
+  },
+  "id": "CNAP-146"
+}

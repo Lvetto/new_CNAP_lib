@@ -1,0 +1,31 @@
+{
+  "name": "vert_21",
+  "tags": [],
+  "folder": "patterns/CNAP-95",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    3,
+    1
+  ],
+  "coordination": 4,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube111": 2,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 2,
+    "D3(Melted_new, Cu)-Cu561_melt1200": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-95"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "edge_19",
+  "tags": [],
+  "folder": "patterns/CNAP-88",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    2,
+    1
+  ],
+  "coordination": 3,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 1,
+    "D1(ref,BCC)-bcc-cube111": 15,
+    "D1(ref,FCC)-fcc-cube110": 10,
+    "D2(Glo, Au)-glo019": 1,
+    "D2(Glo, Au)-glo021": 1,
+    "D2(Glo, Au)-glo023": 1,
+    "D2(Glo, Au)-glo022": 1,
+    "D2(Glo, Au)-glo020": 1,
+    "D2(Glo, Au200)-glo019": 1,
+    "D2(Glo, Au200)-glo021": 1,
+    "D2(Glo, Au200)-glo023": 1,
+    "D2(Glo, Au200)-glo022": 1,
+    "D2(Glo, Au200)-glo020": 1,
+    "D3(Melted_new, Al)-Al-melted": 1,
+    "D3(Melted_new_new, Al)-Al-melted": 1
+  },
+  "id": "CNAP-88"
+}

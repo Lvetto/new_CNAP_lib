@@ -1,0 +1,43 @@
+{
+  "name": "surf_11",
+  "tags": [],
+  "folder": "patterns/CNAP-22",
+  "cna_sequence": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    2,
+    4,
+    2,
+    2
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 44,
+    "D1(ref,BCC)-bcc-cube100": 7,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 39,
+    "D3(Coal_new, Cu)-Cu39_fromcoal.xyz": 1
+  },
+  "id": "CNAP-22"
+}

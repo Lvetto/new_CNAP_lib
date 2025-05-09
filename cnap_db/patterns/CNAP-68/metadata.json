@@ -1,0 +1,48 @@
+{
+  "name": "join_21",
+  "tags": [],
+  "folder": "patterns/CNAP-68",
+  "cna_sequence": [
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      4,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    6,
+    3,
+    1
+  ],
+  "coordination": 13,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-900_18": 1,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 1,
+    "D3(Coal, Au)-2730_12": 1
+  },
+  "id": "CNAP-68"
+}

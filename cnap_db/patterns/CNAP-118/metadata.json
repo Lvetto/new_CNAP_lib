@@ -1,0 +1,52 @@
+{
+  "name": "iso_8",
+  "tags": [],
+  "folder": "patterns/CNAP-118",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    3,
+    2,
+    2
+  ],
+  "coordination": 7,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo000": 2,
+    "D2(Glo, Au200)-glo000": 2,
+    "D2(Glo, Au310)-glo024": 2,
+    "D2(Glo, Au310)-glo021": 2,
+    "D2(Glo, Au310)-glo023": 2,
+    "D2(Glo, Au310)-glo022": 1,
+    "D2(Glo, Au310)-glo020": 2,
+    "D2(Glo, Au310)-glo001": 1,
+    "D3(Coal, Au)-883_7": 2,
+    "D3(Coal, Au)-1746_7": 6,
+    "D3(Coal, Au)-2730_20": 6,
+    "D3(Coal, Au)-2730_12": 20,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 2,
+    "D3(Melted_new, Cu)-Cu38_melted": 1,
+    "D3(Melted_new, Cu)-Cu561_melt1200": 1,
+    "D3(Melted_new, Al)-Al-melted": 3,
+    "D3(Melted_new_new, Al)-Al-melted": 3,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 12,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-118"
+}

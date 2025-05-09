@@ -1,0 +1,49 @@
+{
+  "name": "hcp-like?_6",
+  "tags": [],
+  "folder": "patterns/CNAP-79",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    2,
+    1,
+    9
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-900_18": 2,
+    "D3(Coal, Au)-2730_1": 21,
+    "D3(Coal, Au)-2830_1": 21,
+    "D3(Coal, Au)-2338_24": 22,
+    "D3(Coal, Au)-883_7": 2,
+    "D3(Coal, Au)-2338_5": 6,
+    "D3(Coal, Au)-1746_7": 11,
+    "D3(Coal, Au)-2829_20": 22,
+    "D3(Coal, Au)-2730_20": 6,
+    "D3(Coal, Au)-2730_12": 6,
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 2,
+    "D3(Evolved, Cu)-Cu561_Ih_evolved300K": 2,
+    "D3(Melted, Cu)-Cu561_Ih_evolved300K": 2,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-79"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "quenched?_8",
+  "tags": [],
+  "folder": "patterns/CNAP-128",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    2,
+    2,
+    1,
+    4
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu579_cubic_quenched": 1,
+    "D1(geom,Cu)-Cu568_cubic_quenched": 18,
+    "D3(Coal, Au)-2338_5": 3
+  },
+  "id": "CNAP-128"
+}

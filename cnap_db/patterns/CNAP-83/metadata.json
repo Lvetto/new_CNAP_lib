@@ -1,0 +1,42 @@
+{
+  "name": "edge_16",
+  "tags": [],
+  "folder": "patterns/CNAP-83",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    3,
+    2,
+    1,
+    2
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 31,
+    "D1(ref,BCC)-bcc-cube100": 56,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 2
+  },
+  "id": "CNAP-83"
+}

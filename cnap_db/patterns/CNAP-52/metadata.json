@@ -1,0 +1,53 @@
+{
+  "name": "join_4",
+  "tags": [],
+  "folder": "patterns/CNAP-52",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-52"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "hcp-like?_3",
+  "tags": [],
+  "folder": "patterns/CNAP-76",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    2,
+    2,
+    2,
+    1
+  ],
+  "coordination": 7,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu568_cubic_quenched": 2,
+    "D2(Glo, Au)-glo047": 1,
+    "D2(Glo, Au200)-glo047": 1,
+    "D2(Glo, Au310)-glo012": 1,
+    "D2(Glo, Au310)-glo014": 1,
+    "D2(Glo, Au310)-glo046": 1,
+    "D2(Glo, Au310)-glo011": 1,
+    "D2(Glo, Au310)-glo036": 1,
+    "D2(Glo, Au310)-glo013": 1,
+    "D2(Glo, Au310)-glo037": 1,
+    "D2(Glo, Au310)-glo001": 1,
+    "D2(Glo, Cu)-Cu165_bh": 1,
+    "D3(Coal, Au)-900_18": 2,
+    "D3(Coal, Au)-2730_1": 3,
+    "D3(Coal, Au)-2830_1": 4,
+    "D3(Coal, Au)-2338_24": 2,
+    "D3(Coal, Au)-456_4": 3,
+    "D3(Coal, Au)-883_7": 1,
+    "D3(Coal, Au)-202_1": 3,
+    "D3(Coal, Au)-2338_5": 8,
+    "D3(Coal, Au)-1746_7": 4,
+    "D3(Coal, Au)-2730_12": 3,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 1,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 2
+  },
+  "id": "CNAP-76"
+}

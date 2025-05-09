@@ -1,0 +1,23 @@
+{
+  "name": "vert_19",
+  "tags": [],
+  "folder": "patterns/CNAP-93",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    1
+  ],
+  "coordination": 1,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,SC)-sc-cube111": 3,
+    "D1(ref,BCC)-bcc-cube111": 1
+  },
+  "id": "CNAP-93"
+}

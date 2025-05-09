@@ -1,0 +1,36 @@
+{
+  "name": "quenched?_18",
+  "tags": [],
+  "folder": "patterns/CNAP-138",
+  "cna_sequence": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    2,
+    6,
+    2
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au310)-glo002": 2,
+    "D2(Glo, Au310)-glo001": 2,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 4
+  },
+  "id": "CNAP-138"
+}

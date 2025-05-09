@@ -1,0 +1,48 @@
+{
+  "name": "vert_18",
+  "tags": [],
+  "folder": "patterns/CNAP-85",
+  "cna_sequence": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    3,
+    2,
+    2,
+    1,
+    1
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 8,
+    "D1(ref,BCC)-bcc-cube100": 2,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 9
+  },
+  "id": "CNAP-85"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "surf_8",
+  "tags": [],
+  "folder": "patterns/CNAP-17",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    4,
+    7
+  ],
+  "coordination": 11,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,FCC)-fcc-cube100": 4,
+    "D1(ref,FCC)-fcc-cube110": 45,
+    "D1(geom,Au)-Au250_spcube_r1": 48,
+    "D1(geom,Au)-Au822_Sph211_r15": 56,
+    "D1(geom,Au)-Au835_Sph100_r15": 44,
+    "D1(geom,Au)-Au524_sphereDh_r126": 40,
+    "D1(geom,Au)-Au811_Sph100_r15": 41,
+    "D1(geom,Au)-Au810_Sph211_r15": 54,
+    "D1(geom,Au)-Au236_spTo_r1": 24,
+    "D1(geom,Cu)-Cu579_cubic_quenched": 4,
+    "D1(geom,Cu)-Cu568_cubic_quenched": 17,
+    "D2(Glo, Cu)-Cu200_bh": 1,
+    "D2(Glo, Cu)-Cu190_bh": 1,
+    "D3(Coal, Au)-900_18": 13,
+    "D3(Coal, Au)-2730_1": 14,
+    "D3(Coal, Au)-2830_1": 10,
+    "D3(Coal, Au)-2338_24": 14,
+    "D3(Coal, Au)-456_4": 1,
+    "D3(Coal, Au)-883_7": 58,
+    "D3(Coal, Au)-2338_5": 13,
+    "D3(Coal, Au)-1746_7": 110,
+    "D3(Coal, Au)-202_24": 1,
+    "D3(Coal, Au)-2829_20": 21,
+    "D3(Coal, Au)-2730_20": 212,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 5,
+    "D3(Coal, Au)-2730_12": 196,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 2
+  },
+  "id": "CNAP-17"
+}

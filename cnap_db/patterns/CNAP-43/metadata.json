@@ -1,0 +1,56 @@
+{
+  "name": "ico-like_13",
+  "tags": [],
+  "folder": "patterns/CNAP-43",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    2,
+    4,
+    8,
+    1
+  ],
+  "coordination": 15,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo016": 1,
+    "D2(Glo, Au)-glo017": 1,
+    "D2(Glo, Au)-glo018": 1,
+    "D2(Glo, Au)-glo043": 1,
+    "D2(Glo, Au200)-glo016": 1,
+    "D2(Glo, Au200)-glo017": 1,
+    "D2(Glo, Au200)-glo018": 1,
+    "D2(Glo, Au200)-glo043": 1,
+    "D2(Glo, Au310)-glo029": 1,
+    "D2(Glo, Au310)-glo052": 1,
+    "D2(Glo, Au310)-glo032": 1,
+    "D2(Glo, Au310)-glo030": 1,
+    "D2(Glo, Au310)-glo051": 1,
+    "D2(Glo, Au310)-glo033": 1,
+    "D2(Glo, Au310)-glo062": 1,
+    "D2(Glo, Au310)-glo031": 1,
+    "D2(Glo, Au310)-glo034": 1
+  },
+  "id": "CNAP-43"
+}

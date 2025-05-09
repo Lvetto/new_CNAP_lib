@@ -1,0 +1,23 @@
+{
+  "name": "vert_5",
+  "tags": [],
+  "folder": "patterns/CNAP-10",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    2
+  ],
+  "coordination": 2,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,SC)-sc-cube111": 24,
+    "D1(ref,SC)-sc-cube110": 4
+  },
+  "id": "CNAP-10"
+}

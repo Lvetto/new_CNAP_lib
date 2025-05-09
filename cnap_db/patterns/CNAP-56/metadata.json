@@ -1,0 +1,73 @@
+{
+  "name": "join_9",
+  "tags": [],
+  "folder": "patterns/CNAP-56",
+  "cna_sequence": [
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      5,
+      5,
+      5
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    1,
+    3,
+    2,
+    3
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo003": 2,
+    "D2(Glo, Au)-glo002": 2,
+    "D2(Glo, Au)-glo047": 1,
+    "D2(Glo, Au)-glo004": 2,
+    "D2(Glo, Au)-glo001": 1,
+    "D2(Glo, Au200)-glo003": 2,
+    "D2(Glo, Au200)-glo002": 2,
+    "D2(Glo, Au200)-glo047": 1,
+    "D2(Glo, Au200)-glo004": 2,
+    "D2(Glo, Au200)-glo001": 1,
+    "D2(Glo, Au310)-glo039": 1,
+    "D2(Glo, Au310)-glo035": 1,
+    "D2(Glo, Au310)-glo046": 1,
+    "D2(Glo, Au310)-glo038": 1,
+    "D2(Glo, Au310)-glo041": 1,
+    "D2(Glo, Au310)-glo045": 1,
+    "D2(Glo, Au310)-glo043": 1,
+    "D2(Glo, Au310)-glo036": 1,
+    "D2(Glo, Au310)-glo044": 1,
+    "D2(Glo, Au310)-glo042": 1,
+    "D2(Glo, Au310)-glo037": 1,
+    "D2(Glo, Au310)-glo040": 1
+  },
+  "id": "CNAP-56"
+}

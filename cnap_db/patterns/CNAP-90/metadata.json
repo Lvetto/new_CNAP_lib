@@ -1,0 +1,40 @@
+{
+  "name": "surf_16",
+  "tags": [],
+  "folder": "patterns/CNAP-90",
+  "cna_sequence": [
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    3,
+    3,
+    3,
+    1
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube111": 4
+  },
+  "id": "CNAP-90"
+}

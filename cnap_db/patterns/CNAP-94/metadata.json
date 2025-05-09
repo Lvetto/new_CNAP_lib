@@ -1,0 +1,35 @@
+{
+  "name": "vert_20",
+  "tags": [],
+  "folder": "patterns/CNAP-94",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    1,
+    3,
+    1
+  ],
+  "coordination": 5,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube111": 1,
+    "D3(Melted_new, Cu)-Cu63_melted": 1
+  },
+  "id": "CNAP-94"
+}

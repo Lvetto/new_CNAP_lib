@@ -1,0 +1,74 @@
+{
+  "name": "quenched?_21",
+  "tags": [],
+  "folder": "patterns/CNAP-141",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2,
+    3
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu568_cubic_quenched": 1,
+    "D2(Glo, Au)-glo039": 1,
+    "D2(Glo, Au)-glo035": 1,
+    "D2(Glo, Au)-glo029": 1,
+    "D2(Glo, Au)-glo032": 1,
+    "D2(Glo, Au)-glo030": 1,
+    "D2(Glo, Au)-glo043": 1,
+    "D2(Glo, Au)-glo036": 1,
+    "D2(Glo, Au)-glo033": 1,
+    "D2(Glo, Au)-glo044": 1,
+    "D2(Glo, Au)-glo047": 1,
+    "D2(Glo, Au)-glo031": 1,
+    "D2(Glo, Au)-glo034": 1,
+    "D2(Glo, Au200)-glo039": 1,
+    "D2(Glo, Au200)-glo035": 1,
+    "D2(Glo, Au200)-glo029": 1,
+    "D2(Glo, Au200)-glo032": 1,
+    "D2(Glo, Au200)-glo030": 1,
+    "D2(Glo, Au200)-glo043": 1,
+    "D2(Glo, Au200)-glo036": 1,
+    "D2(Glo, Au200)-glo033": 1,
+    "D2(Glo, Au200)-glo044": 1,
+    "D2(Glo, Au200)-glo047": 1,
+    "D2(Glo, Au200)-glo031": 1,
+    "D2(Glo, Au200)-glo034": 1,
+    "D2(Glo, Au310)-glo029": 1,
+    "D2(Glo, Au310)-glo038": 1,
+    "D2(Glo, Au310)-glo032": 1,
+    "D2(Glo, Au310)-glo030": 1,
+    "D2(Glo, Au310)-glo033": 1,
+    "D2(Glo, Au310)-glo062": 1,
+    "D2(Glo, Au310)-glo031": 1,
+    "D2(Glo, Au310)-glo000": 1,
+    "D2(Glo, Au310)-glo037": 1,
+    "D2(Glo, Au310)-glo034": 1
+  },
+  "id": "CNAP-141"
+}

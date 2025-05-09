@@ -1,0 +1,50 @@
+{
+  "name": "ico-like_10",
+  "tags": [],
+  "folder": "patterns/CNAP-41",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      5,
+      5,
+      5
+    ]
+  ],
+  "frequencies": [
+    1,
+    1,
+    3,
+    2,
+    5
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au310)-glo006": 1,
+    "D2(Glo, Au310)-glo000": 1,
+    "D2(Glo, Au310)-glo004": 1,
+    "D3(Coal, Au)-360_5": 2,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 1
+  },
+  "id": "CNAP-41"
+}

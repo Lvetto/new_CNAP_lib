@@ -1,0 +1,41 @@
+{
+  "name": "quenched?_7",
+  "tags": [],
+  "folder": "patterns/CNAP-127",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    5,
+    2,
+    1,
+    4
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 2,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 12
+  },
+  "id": "CNAP-127"
+}

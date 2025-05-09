@@ -1,0 +1,57 @@
+{
+  "name": "ico_18",
+  "tags": [],
+  "folder": "patterns/CNAP-74",
+  "cna_sequence": [
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      5,
+      5
+    ]
+  ],
+  "frequencies": [
+    5,
+    5,
+    1
+  ],
+  "coordination": 11,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Au)-Au236_spmdh_r1": 2,
+    "D1(geom,Cu)-Cu560_Ih_nocentre": 12,
+    "D2(Glo, Cu)-Cu195_bh": 2,
+    "D2(Glo, Cu)-Cu240_bh": 2,
+    "D2(Glo, Cu)-Cu130_bh": 1,
+    "D2(Glo, Cu)-Cu190_bh": 1,
+    "D2(Glo, Cu)-Cu135_bh": 2,
+    "D2(Glo, Cu)-Cu145_bh": 2,
+    "D2(Glo, Cu)-Cu115_bh": 1,
+    "D2(Glo, Cu)-Cu225_bh": 1,
+    "D2(Glo, Cu)-Cu210_bh": 3,
+    "D2(Glo, Cu)-Cu140_bh": 7,
+    "D2(Glo, Cu)-Cu180_bh": 1,
+    "D3(Coal, Au)-900_18": 2,
+    "D3(Coal, Au)-2730_1": 1,
+    "D3(Coal, Au)-2830_1": 1,
+    "D3(Coal, Au)-2338_24": 6,
+    "D3(Coal, Au)-883_7": 3,
+    "D3(Coal, Au)-2338_5": 2,
+    "D3(Coal, Au)-1746_7": 4,
+    "D3(Coal, Au)-2829_20": 4,
+    "D3(Coal, Au)-2730_20": 6,
+    "D3(Coal, Au)-2730_12": 8,
+    "D3(Coal, Au)-102_1": 2
+  },
+  "id": "CNAP-74"
+}

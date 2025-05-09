@@ -1,0 +1,24 @@
+{
+  "name": "surf_3",
+  "tags": [],
+  "folder": "patterns/CNAP-9",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    5
+  ],
+  "coordination": 5,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,SC)-sc-cube111": 84,
+    "D1(ref,SC)-sc-cube110": 184,
+    "D1(ref,SC)-sc-cube100": 216
+  },
+  "id": "CNAP-9"
+}

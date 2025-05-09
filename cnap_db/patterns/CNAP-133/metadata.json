@@ -1,0 +1,50 @@
+{
+  "name": "quenched?_13",
+  "tags": [],
+  "folder": "patterns/CNAP-133",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    8,
+    2,
+    2
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu579_cubic_quenched": 1,
+    "D3(Coal, Au)-900_18": 3,
+    "D3(Coal, Au)-2730_1": 8,
+    "D3(Coal, Au)-2830_1": 7,
+    "D3(Coal, Au)-2338_24": 5,
+    "D3(Coal, Au)-456_4": 3,
+    "D3(Coal, Au)-883_7": 1,
+    "D3(Coal, Au)-2338_5": 3,
+    "D3(Coal, Au)-1746_7": 5,
+    "D3(Coal, Au)-2829_20": 12,
+    "D3(Coal, Au)-2730_20": 8,
+    "D3(Coal, Au)-2730_12": 5,
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 32,
+    "D3(Evolved, Cu)-Cu561_Ih_evolved300K": 1,
+    "D3(Melted, Cu)-Cu561_Ih_evolved300K": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 3,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 18
+  },
+  "id": "CNAP-133"
+}

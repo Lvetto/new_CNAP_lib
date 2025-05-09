@@ -1,0 +1,49 @@
+{
+  "name": "quenched?_13_3",
+  "tags": [],
+  "folder": "patterns/CNAP-150",
+  "cna_sequence": [
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ],
+    [
+      5,
+      5,
+      5
+    ]
+  ],
+  "frequencies": [
+    2,
+    2,
+    8
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo035": 1,
+    "D2(Glo, Au)-glo029": 1,
+    "D2(Glo, Au)-glo038": 1,
+    "D2(Glo, Au)-glo030": 1,
+    "D2(Glo, Au)-glo007": 1,
+    "D2(Glo, Au)-glo045": 1,
+    "D2(Glo, Au)-glo009": 1,
+    "D2(Glo, Au)-glo037": 1,
+    "D2(Glo, Au200)-glo035": 1,
+    "D2(Glo, Au200)-glo029": 1,
+    "D2(Glo, Au200)-glo038": 1,
+    "D2(Glo, Au200)-glo030": 1,
+    "D2(Glo, Au200)-glo007": 1,
+    "D2(Glo, Au200)-glo045": 1,
+    "D2(Glo, Au200)-glo009": 1,
+    "D2(Glo, Au200)-glo037": 1
+  },
+  "id": "CNAP-150"
+}

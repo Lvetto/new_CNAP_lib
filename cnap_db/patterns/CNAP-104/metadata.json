@@ -1,0 +1,39 @@
+{
+  "name": "surf_30",
+  "tags": [],
+  "folder": "patterns/CNAP-104",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    2,
+    3
+  ],
+  "coordination": 5,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo000": 1,
+    "D2(Glo, Au200)-glo000": 1,
+    "D2(Glo, Au310)-glo003": 1,
+    "D2(Glo, Au310)-glo004": 1,
+    "D2(Glo, Au310)-glo001": 3,
+    "D3(Coal, Au)-2830_1": 1,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 2,
+    "D3(Melted_new, Cu)-Cu39_melted": 3,
+    "D3(Melted_new, Cu)-Cu561_melt1200": 7,
+    "D3(Melted_new, Al)-Al-melted": 2,
+    "D3(Melted_new_new, Al)-Al-melted": 2,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 7
+  },
+  "id": "CNAP-104"
+}

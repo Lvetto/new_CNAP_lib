@@ -1,0 +1,40 @@
+{
+  "name": "surf_28",
+  "tags": [],
+  "folder": "patterns/CNAP-103",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      4,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2,
+    1
+  ],
+  "coordination": 6,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal_new, Cu)-Cu39_fromcoal.xyz": 1
+  },
+  "id": "CNAP-103"
+}

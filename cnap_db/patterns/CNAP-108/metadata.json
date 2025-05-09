@@ -1,0 +1,42 @@
+{
+  "name": "edge_21",
+  "tags": [],
+  "folder": "patterns/CNAP-108",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    2,
+    2,
+    2,
+    1
+  ],
+  "coordination": 7,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,FCC)-fcc-cube110": 10,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 2,
+    "D3(Melted_new, Cu)-Cu561_melt1200": 1
+  },
+  "id": "CNAP-108"
+}

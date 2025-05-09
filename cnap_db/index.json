@@ -1,0 +1,1218 @@
+{
+  "CNAP-0": {
+    "name": "FCC-bulk",
+    "tags": [],
+    "folder": "patterns/CNAP-0",
+    "cna_sequence": "[[4, 2, 1]]",
+    "frequencies": "[12]",
+    "coordination": 12
+  },
+  "CNAP-1": {
+    "name": "BCC-bulk",
+    "tags": [],
+    "folder": "patterns/CNAP-1",
+    "cna_sequence": "[[4, 4, 4], [6, 6, 6]]",
+    "frequencies": "[6, 8]",
+    "coordination": 14
+  },
+  "CNAP-2": {
+    "name": "SC-bulk",
+    "tags": [],
+    "folder": "patterns/CNAP-2",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[6]",
+    "coordination": 6
+  },
+  "CNAP-3": {
+    "name": "HCP-bulk",
+    "tags": [],
+    "folder": "patterns/CNAP-3",
+    "cna_sequence": "[[4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[6, 6]",
+    "coordination": 12
+  },
+  "CNAP-4": {
+    "name": "surf-01",
+    "tags": [],
+    "folder": "patterns/CNAP-4",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[6, 3]",
+    "coordination": 9
+  },
+  "CNAP-5": {
+    "name": "edge-02",
+    "tags": [],
+    "folder": "patterns/CNAP-5",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1]]",
+    "frequencies": "[2, 4]",
+    "coordination": 6
+  },
+  "CNAP-6": {
+    "name": "vert-02",
+    "tags": [],
+    "folder": "patterns/CNAP-6",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1]]",
+    "frequencies": "[2, 1, 2]",
+    "coordination": 5
+  },
+  "CNAP-7": {
+    "name": "edge-03",
+    "tags": [],
+    "folder": "patterns/CNAP-7",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [4, 4, 4], [6, 6, 6]]",
+    "frequencies": "[4, 2, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-8": {
+    "name": "vert-03",
+    "tags": [],
+    "folder": "patterns/CNAP-8",
+    "cna_sequence": "[[3, 2, 2], [6, 6, 6]]",
+    "frequencies": "[6, 1]",
+    "coordination": 7
+  },
+  "CNAP-9": {
+    "name": "surf_3",
+    "tags": [],
+    "folder": "patterns/CNAP-9",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[5]",
+    "coordination": 5
+  },
+  "CNAP-10": {
+    "name": "vert_5",
+    "tags": [],
+    "folder": "patterns/CNAP-10",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[2]",
+    "coordination": 2
+  },
+  "CNAP-11": {
+    "name": "edge_6",
+    "tags": [],
+    "folder": "patterns/CNAP-11",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[3]",
+    "coordination": 3
+  },
+  "CNAP-12": {
+    "name": "edge_7",
+    "tags": [],
+    "folder": "patterns/CNAP-12",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[4]",
+    "coordination": 4
+  },
+  "CNAP-13": {
+    "name": "surf_6",
+    "tags": [],
+    "folder": "patterns/CNAP-13",
+    "cna_sequence": "[[2, 1, 1], [4, 2, 1]]",
+    "frequencies": "[4, 4]",
+    "coordination": 8
+  },
+  "CNAP-14": {
+    "name": "surf_7",
+    "tags": [],
+    "folder": "patterns/CNAP-14",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[2, 4, 1]",
+    "coordination": 7
+  },
+  "CNAP-15": {
+    "name": "edge_9",
+    "tags": [],
+    "folder": "patterns/CNAP-15",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[3, 2, 2]",
+    "coordination": 7
+  },
+  "CNAP-16": {
+    "name": "vert_9",
+    "tags": [],
+    "folder": "patterns/CNAP-16",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 1, 1]]",
+    "frequencies": "[1, 2, 1]",
+    "coordination": 4
+  },
+  "CNAP-17": {
+    "name": "surf_8",
+    "tags": [],
+    "folder": "patterns/CNAP-17",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[4, 7]",
+    "coordination": 11
+  },
+  "CNAP-18": {
+    "name": "edge_10",
+    "tags": [],
+    "folder": "patterns/CNAP-18",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 1, 1]]",
+    "frequencies": "[2, 1, 2]",
+    "coordination": 5
+  },
+  "CNAP-19": {
+    "name": "vert_10",
+    "tags": [],
+    "folder": "patterns/CNAP-19",
+    "cna_sequence": "[[2, 1, 1]]",
+    "frequencies": "[3]",
+    "coordination": 3
+  },
+  "CNAP-20": {
+    "name": "vert_11",
+    "tags": [],
+    "folder": "patterns/CNAP-20",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [5, 4, 4]]",
+    "frequencies": "[2, 3, 1]",
+    "coordination": 6
+  },
+  "CNAP-21": {
+    "name": "surf_10",
+    "tags": [],
+    "folder": "patterns/CNAP-21",
+    "cna_sequence": "[[4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[5, 4, 4]",
+    "coordination": 13
+  },
+  "CNAP-22": {
+    "name": "surf_11",
+    "tags": [],
+    "folder": "patterns/CNAP-22",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [4, 4, 4], [6, 6, 6]]",
+    "frequencies": "[2, 4, 2, 2]",
+    "coordination": 10
+  },
+  "CNAP-23": {
+    "name": "vert_12",
+    "tags": [],
+    "folder": "patterns/CNAP-23",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 2]",
+    "coordination": 6
+  },
+  "CNAP-24": {
+    "name": "edge_13",
+    "tags": [],
+    "folder": "patterns/CNAP-24",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 2, 2], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[2, 2, 1, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-25": {
+    "name": "ico_2",
+    "tags": [],
+    "folder": "patterns/CNAP-25",
+    "cna_sequence": "[[5, 5, 5]]",
+    "frequencies": "[12]",
+    "coordination": 12
+  },
+  "CNAP-26": {
+    "name": "ico_3",
+    "tags": [],
+    "folder": "patterns/CNAP-26",
+    "cna_sequence": "[[4, 2, 2], [5, 5, 5]]",
+    "frequencies": "[10, 2]",
+    "coordination": 12
+  },
+  "CNAP-27": {
+    "name": "ico_4",
+    "tags": [],
+    "folder": "patterns/CNAP-27",
+    "cna_sequence": "[[3, 2, 2], [5, 5, 5]]",
+    "frequencies": "[5, 1]",
+    "coordination": 6
+  },
+  "CNAP-28": {
+    "name": "vert_14",
+    "tags": [],
+    "folder": "patterns/CNAP-28",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[4, 2, 2]",
+    "coordination": 8
+  },
+  "CNAP-29": {
+    "name": "vert_15",
+    "tags": [],
+    "folder": "patterns/CNAP-29",
+    "cna_sequence": "[[2, 0, 0], [3, 0, 0]]",
+    "frequencies": "[4, 2]",
+    "coordination": 6
+  },
+  "CNAP-30": {
+    "name": "surf_13",
+    "tags": [],
+    "folder": "patterns/CNAP-30",
+    "cna_sequence": "[[3, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 1, 4, 3]",
+    "coordination": 11
+  },
+  "CNAP-31": {
+    "name": "cage_2",
+    "tags": [],
+    "folder": "patterns/CNAP-31",
+    "cna_sequence": "[[2, 0, 0]]",
+    "frequencies": "[5]",
+    "coordination": 5
+  },
+  "CNAP-32": {
+    "name": "cage_3",
+    "tags": [],
+    "folder": "patterns/CNAP-32",
+    "cna_sequence": "[[2, 0, 0]]",
+    "frequencies": "[6]",
+    "coordination": 6
+  },
+  "CNAP-33": {
+    "name": "ico-like_2",
+    "tags": [],
+    "folder": "patterns/CNAP-33",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [5, 5, 5]]",
+    "frequencies": "[4, 2, 2]",
+    "coordination": 8
+  },
+  "CNAP-34": {
+    "name": "ico-like_3",
+    "tags": [],
+    "folder": "patterns/CNAP-34",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 2, 2, 3]",
+    "coordination": 8
+  },
+  "CNAP-35": {
+    "name": "ico-like_4",
+    "tags": [],
+    "folder": "patterns/CNAP-35",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[2, 3, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-36": {
+    "name": "ico-like_5",
+    "tags": [],
+    "folder": "patterns/CNAP-36",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[2, 1, 1, 1, 1]",
+    "coordination": 6
+  },
+  "CNAP-37": {
+    "name": "ico-like_6",
+    "tags": [],
+    "folder": "patterns/CNAP-37",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [5, 5, 5]]",
+    "frequencies": "[3, 3, 3]",
+    "coordination": 9
+  },
+  "CNAP-38": {
+    "name": "ico-like_7",
+    "tags": [],
+    "folder": "patterns/CNAP-38",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [5, 4, 4]]",
+    "frequencies": "[1, 2, 3, 1]",
+    "coordination": 7
+  },
+  "CNAP-39": {
+    "name": "ico-like_8",
+    "tags": [],
+    "folder": "patterns/CNAP-39",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[2, 1, 2, 4, 1]",
+    "coordination": 10
+  },
+  "CNAP-40": {
+    "name": "ico-like_9",
+    "tags": [],
+    "folder": "patterns/CNAP-40",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3], [5, 5, 5]]",
+    "frequencies": "[1, 3, 2, 1]",
+    "coordination": 7
+  },
+  "CNAP-41": {
+    "name": "ico-like_10",
+    "tags": [],
+    "folder": "patterns/CNAP-41",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[1, 1, 3, 2, 5]",
+    "coordination": 12
+  },
+  "CNAP-42": {
+    "name": "ico-like_11",
+    "tags": [],
+    "folder": "patterns/CNAP-42",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 2, 1]",
+    "coordination": 7
+  },
+  "CNAP-43": {
+    "name": "ico-like_13",
+    "tags": [],
+    "folder": "patterns/CNAP-43",
+    "cna_sequence": "[[4, 2, 2], [5, 4, 4], [5, 5, 5], [6, 6, 6]]",
+    "frequencies": "[2, 4, 8, 1]",
+    "coordination": 15
+  },
+  "CNAP-44": {
+    "name": "edge_15",
+    "tags": [],
+    "folder": "patterns/CNAP-44",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [4, 2, 2]]",
+    "frequencies": "[2, 2, 2]",
+    "coordination": 6
+  },
+  "CNAP-45": {
+    "name": "vert_16",
+    "tags": [],
+    "folder": "patterns/CNAP-45",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[1, 2, 1, 1]",
+    "coordination": 5
+  },
+  "CNAP-46": {
+    "name": "rec?_2",
+    "tags": [],
+    "folder": "patterns/CNAP-46",
+    "cna_sequence": "[[3, 0, 0], [3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[2, 4, 2, 2]",
+    "coordination": 10
+  },
+  "CNAP-47": {
+    "name": "rec?_3",
+    "tags": [],
+    "folder": "patterns/CNAP-47",
+    "cna_sequence": "[[2, 0, 0], [3, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[2, 1, 2, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-48": {
+    "name": "rec?_4",
+    "tags": [],
+    "folder": "patterns/CNAP-48",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[1, 2, 2, 1]",
+    "coordination": 6
+  },
+  "CNAP-49": {
+    "name": "fcc-like_2",
+    "tags": [],
+    "folder": "patterns/CNAP-49",
+    "cna_sequence": "[[2, 1, 1], [4, 2, 1]]",
+    "frequencies": "[4, 1]",
+    "coordination": 5
+  },
+  "CNAP-50": {
+    "name": "join_2",
+    "tags": [],
+    "folder": "patterns/CNAP-50",
+    "cna_sequence": "[[4, 2, 1], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[8, 1, 4]",
+    "coordination": 13
+  },
+  "CNAP-51": {
+    "name": "join_3",
+    "tags": [],
+    "folder": "patterns/CNAP-51",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[1, 3, 1, 1, 1, 1, 2]",
+    "coordination": 10
+  },
+  "CNAP-52": {
+    "name": "join_4",
+    "tags": [],
+    "folder": "patterns/CNAP-52",
+    "cna_sequence": "[[1, 0, 0], [2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[1, 1, 2, 2, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-53": {
+    "name": "join_5",
+    "tags": [],
+    "folder": "patterns/CNAP-53",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[1, 1, 4, 2]",
+    "coordination": 8
+  },
+  "CNAP-54": {
+    "name": "join_6",
+    "tags": [],
+    "folder": "patterns/CNAP-54",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[4, 3, 2, 2]",
+    "coordination": 11
+  },
+  "CNAP-55": {
+    "name": "join_8",
+    "tags": [],
+    "folder": "patterns/CNAP-55",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 2], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[2, 8, 1, 1]",
+    "coordination": 12
+  },
+  "CNAP-56": {
+    "name": "join_9",
+    "tags": [],
+    "folder": "patterns/CNAP-56",
+    "cna_sequence": "[[3, 0, 0], [3, 1, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[1, 2, 1, 3, 2, 3]",
+    "coordination": 12
+  },
+  "CNAP-57": {
+    "name": "join_10",
+    "tags": [],
+    "folder": "patterns/CNAP-57",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 3, 1, 3, 1]",
+    "coordination": 9
+  },
+  "CNAP-58": {
+    "name": "join_11",
+    "tags": [],
+    "folder": "patterns/CNAP-58",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[1, 3, 5, 2, 1]",
+    "coordination": 12
+  },
+  "CNAP-59": {
+    "name": "join_12",
+    "tags": [],
+    "folder": "patterns/CNAP-59",
+    "cna_sequence": "[[1, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[1, 4, 1, 3]",
+    "coordination": 9
+  },
+  "CNAP-60": {
+    "name": "join_13",
+    "tags": [],
+    "folder": "patterns/CNAP-60",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 1, 3, 1, 3, 1]",
+    "coordination": 11
+  },
+  "CNAP-61": {
+    "name": "join_14",
+    "tags": [],
+    "folder": "patterns/CNAP-61",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 2], [5, 5, 5]]",
+    "frequencies": "[2, 3, 4, 1]",
+    "coordination": 10
+  },
+  "CNAP-62": {
+    "name": "join_15",
+    "tags": [],
+    "folder": "patterns/CNAP-62",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[1, 4, 5]",
+    "coordination": 10
+  },
+  "CNAP-63": {
+    "name": "join_16",
+    "tags": [],
+    "folder": "patterns/CNAP-63",
+    "cna_sequence": "[[1, 0, 0], [2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[1, 1, 4, 1, 3]",
+    "coordination": 10
+  },
+  "CNAP-64": {
+    "name": "join_17",
+    "tags": [],
+    "folder": "patterns/CNAP-64",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[2, 4, 3]",
+    "coordination": 9
+  },
+  "CNAP-65": {
+    "name": "join_18",
+    "tags": [],
+    "folder": "patterns/CNAP-65",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 4, 3, 2]",
+    "coordination": 10
+  },
+  "CNAP-66": {
+    "name": "join_19",
+    "tags": [],
+    "folder": "patterns/CNAP-66",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[3, 1, 4, 1, 1]",
+    "coordination": 10
+  },
+  "CNAP-67": {
+    "name": "join_20",
+    "tags": [],
+    "folder": "patterns/CNAP-67",
+    "cna_sequence": "[[3, 1, 1], [4, 1, 1], [4, 2, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[3, 1, 4, 1, 2, 1]",
+    "coordination": 12
+  },
+  "CNAP-68": {
+    "name": "join_21",
+    "tags": [],
+    "folder": "patterns/CNAP-68",
+    "cna_sequence": "[[3, 0, 0], [4, 1, 1], [4, 2, 1], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[1, 2, 6, 3, 1]",
+    "coordination": 13
+  },
+  "CNAP-69": {
+    "name": "join_22",
+    "tags": [],
+    "folder": "patterns/CNAP-69",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1]]",
+    "frequencies": "[2, 6]",
+    "coordination": 8
+  },
+  "CNAP-70": {
+    "name": "join_23",
+    "tags": [],
+    "folder": "patterns/CNAP-70",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2]]",
+    "frequencies": "[2, 2]",
+    "coordination": 4
+  },
+  "CNAP-71": {
+    "name": "join_24",
+    "tags": [],
+    "folder": "patterns/CNAP-71",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[2, 2, 4, 2]",
+    "coordination": 10
+  },
+  "CNAP-72": {
+    "name": "join_25",
+    "tags": [],
+    "folder": "patterns/CNAP-72",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 1, 1, 2, 3, 1]",
+    "coordination": 10
+  },
+  "CNAP-73": {
+    "name": "join_26",
+    "tags": [],
+    "folder": "patterns/CNAP-73",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[3, 2, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-74": {
+    "name": "ico_18",
+    "tags": [],
+    "folder": "patterns/CNAP-74",
+    "cna_sequence": "[[3, 0, 0], [4, 2, 2], [5, 5, 5]]",
+    "frequencies": "[5, 5, 1]",
+    "coordination": 11
+  },
+  "CNAP-75": {
+    "name": "hcp-like?_2",
+    "tags": [],
+    "folder": "patterns/CNAP-75",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[4, 4, 2]",
+    "coordination": 10
+  },
+  "CNAP-76": {
+    "name": "hcp-like?_3",
+    "tags": [],
+    "folder": "patterns/CNAP-76",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 2, 1]",
+    "coordination": 7
+  },
+  "CNAP-77": {
+    "name": "hcp-like?_4",
+    "tags": [],
+    "folder": "patterns/CNAP-77",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 0, 0], [3, 1, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 1, 1, 1, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-78": {
+    "name": "hcp-like?_5",
+    "tags": [],
+    "folder": "patterns/CNAP-78",
+    "cna_sequence": "[[3, 1, 1], [4, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[2, 1, 3, 6]",
+    "coordination": 12
+  },
+  "CNAP-79": {
+    "name": "hcp-like?_6",
+    "tags": [],
+    "folder": "patterns/CNAP-79",
+    "cna_sequence": "[[3, 1, 1], [4, 1, 1], [4, 2, 1]]",
+    "frequencies": "[2, 1, 9]",
+    "coordination": 12
+  },
+  "CNAP-80": {
+    "name": "cage_4",
+    "tags": [],
+    "folder": "patterns/CNAP-80",
+    "cna_sequence": "[[0, 0, 0], [1, 0, 0], [2, 0, 0]]",
+    "frequencies": "[1, 2, 2]",
+    "coordination": 5
+  },
+  "CNAP-81": {
+    "name": "cage_5",
+    "tags": [],
+    "folder": "patterns/CNAP-81",
+    "cna_sequence": "[[0, 0, 0], [1, 0, 0], [2, 0, 0]]",
+    "frequencies": "[1, 2, 1]",
+    "coordination": 4
+  },
+  "CNAP-82": {
+    "name": "surf_14",
+    "tags": [],
+    "folder": "patterns/CNAP-82",
+    "cna_sequence": "[[2, 1, 1], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[4, 1, 4]",
+    "coordination": 9
+  },
+  "CNAP-83": {
+    "name": "edge_16",
+    "tags": [],
+    "folder": "patterns/CNAP-83",
+    "cna_sequence": "[[2, 1, 1], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[3, 2, 1, 2]",
+    "coordination": 8
+  },
+  "CNAP-84": {
+    "name": "vert_17",
+    "tags": [],
+    "folder": "patterns/CNAP-84",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[2, 1, 2, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-85": {
+    "name": "vert_18",
+    "tags": [],
+    "folder": "patterns/CNAP-85",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[3, 2, 2, 1, 1]",
+    "coordination": 9
+  },
+  "CNAP-86": {
+    "name": "edge_17",
+    "tags": [],
+    "folder": "patterns/CNAP-86",
+    "cna_sequence": "[[4, 2, 2], [4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[2, 4, 4, 2]",
+    "coordination": 12
+  },
+  "CNAP-87": {
+    "name": "edge_18",
+    "tags": [],
+    "folder": "patterns/CNAP-87",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[1, 1, 2, 1, 1, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-88": {
+    "name": "edge_19",
+    "tags": [],
+    "folder": "patterns/CNAP-88",
+    "cna_sequence": "[[1, 0, 0], [2, 0, 0]]",
+    "frequencies": "[2, 1]",
+    "coordination": 3
+  },
+  "CNAP-89": {
+    "name": "surf_15",
+    "tags": [],
+    "folder": "patterns/CNAP-89",
+    "cna_sequence": "[[2, 0, 0], [3, 0, 0], [3, 2, 2], [4, 2, 2], [4, 4, 4]]",
+    "frequencies": "[2, 1, 1, 3, 1]",
+    "coordination": 8
+  },
+  "CNAP-90": {
+    "name": "surf_16",
+    "tags": [],
+    "folder": "patterns/CNAP-90",
+    "cna_sequence": "[[3, 2, 2], [4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[3, 3, 3, 1]",
+    "coordination": 10
+  },
+  "CNAP-91": {
+    "name": "surf_17",
+    "tags": [],
+    "folder": "patterns/CNAP-91",
+    "cna_sequence": "[[3, 2, 2], [4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[3, 3, 3, 4]",
+    "coordination": 13
+  },
+  "CNAP-92": {
+    "name": "surf_18",
+    "tags": [],
+    "folder": "patterns/CNAP-92",
+    "cna_sequence": "[[2, 0, 0], [3, 2, 2], [4, 2, 2], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[1, 2, 2, 2, 2]",
+    "coordination": 9
+  },
+  "CNAP-93": {
+    "name": "vert_19",
+    "tags": [],
+    "folder": "patterns/CNAP-93",
+    "cna_sequence": "[[0, 0, 0]]",
+    "frequencies": "[1]",
+    "coordination": 1
+  },
+  "CNAP-94": {
+    "name": "vert_20",
+    "tags": [],
+    "folder": "patterns/CNAP-94",
+    "cna_sequence": "[[0, 0, 0], [1, 0, 0], [3, 0, 0]]",
+    "frequencies": "[1, 3, 1]",
+    "coordination": 5
+  },
+  "CNAP-95": {
+    "name": "vert_21",
+    "tags": [],
+    "folder": "patterns/CNAP-95",
+    "cna_sequence": "[[1, 0, 0], [3, 0, 0]]",
+    "frequencies": "[3, 1]",
+    "coordination": 4
+  },
+  "CNAP-96": {
+    "name": "vert_22",
+    "tags": [],
+    "folder": "patterns/CNAP-96",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 1]",
+    "coordination": 5
+  },
+  "CNAP-97": {
+    "name": "edge_20",
+    "tags": [],
+    "folder": "patterns/CNAP-97",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[2, 2, 2, 1, 2]",
+    "coordination": 9
+  },
+  "CNAP-98": {
+    "name": "surf_20",
+    "tags": [],
+    "folder": "patterns/CNAP-98",
+    "cna_sequence": "[[1, 0, 0]]",
+    "frequencies": "[2]",
+    "coordination": 2
+  },
+  "CNAP-99": {
+    "name": "surf_23",
+    "tags": [],
+    "folder": "patterns/CNAP-99",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 2, 2], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[1, 2, 2, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-100": {
+    "name": "surf_24",
+    "tags": [],
+    "folder": "patterns/CNAP-100",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[1, 1, 1, 1, 1, 1, 1, 2]",
+    "coordination": 9
+  },
+  "CNAP-101": {
+    "name": "surf_25",
+    "tags": [],
+    "folder": "patterns/CNAP-101",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[2, 3, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-102": {
+    "name": "surf_27",
+    "tags": [],
+    "folder": "patterns/CNAP-102",
+    "cna_sequence": "[[1, 0, 0], [3, 2, 2], [4, 2, 2], [4, 4, 4]]",
+    "frequencies": "[1, 3, 1, 1]",
+    "coordination": 6
+  },
+  "CNAP-103": {
+    "name": "surf_28",
+    "tags": [],
+    "folder": "patterns/CNAP-103",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3], [4, 4, 4]]",
+    "frequencies": "[1, 2, 2, 1]",
+    "coordination": 6
+  },
+  "CNAP-104": {
+    "name": "surf_30",
+    "tags": [],
+    "folder": "patterns/CNAP-104",
+    "cna_sequence": "[[1, 0, 0], [2, 0, 0]]",
+    "frequencies": "[2, 3]",
+    "coordination": 5
+  },
+  "CNAP-105": {
+    "name": "surf_35",
+    "tags": [],
+    "folder": "patterns/CNAP-105",
+    "cna_sequence": "[[1, 0, 0], [2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2]]",
+    "frequencies": "[2, 1, 1, 1, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-106": {
+    "name": "surf_36",
+    "tags": [],
+    "folder": "patterns/CNAP-106",
+    "cna_sequence": "[[1, 0, 0], [3, 1, 1], [3, 2, 2]]",
+    "frequencies": "[2, 2, 2]",
+    "coordination": 6
+  },
+  "CNAP-107": {
+    "name": "surf_37",
+    "tags": [],
+    "folder": "patterns/CNAP-107",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3], [4, 4, 4], [5, 4, 4], [6, 6, 6]]",
+    "frequencies": "[1, 3, 2, 1, 1, 1]",
+    "coordination": 9
+  },
+  "CNAP-108": {
+    "name": "edge_21",
+    "tags": [],
+    "folder": "patterns/CNAP-108",
+    "cna_sequence": "[[1, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[2, 2, 2, 1]",
+    "coordination": 7
+  },
+  "CNAP-109": {
+    "name": "vert_23",
+    "tags": [],
+    "folder": "patterns/CNAP-109",
+    "cna_sequence": "[[2, 0, 0]]",
+    "frequencies": "[4]",
+    "coordination": 4
+  },
+  "CNAP-110": {
+    "name": "vert_24",
+    "tags": [],
+    "folder": "patterns/CNAP-110",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1]]",
+    "frequencies": "[1, 2, 2, 4]",
+    "coordination": 9
+  },
+  "CNAP-111": {
+    "name": "evolved_2",
+    "tags": [],
+    "folder": "patterns/CNAP-111",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[2, 2, 3, 1, 1]",
+    "coordination": 9
+  },
+  "CNAP-112": {
+    "name": "iso_2",
+    "tags": [],
+    "folder": "patterns/CNAP-112",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 2, 2, 1]",
+    "coordination": 6
+  },
+  "CNAP-113": {
+    "name": "iso_3",
+    "tags": [],
+    "folder": "patterns/CNAP-113",
+    "cna_sequence": "[[4, 2, 1], [4, 3, 3], [4, 4, 4], [5, 4, 4], [5, 5, 5], [6, 6, 6]]",
+    "frequencies": "[1, 2, 2, 4, 2, 2]",
+    "coordination": 13
+  },
+  "CNAP-114": {
+    "name": "iso_4",
+    "tags": [],
+    "folder": "patterns/CNAP-114",
+    "cna_sequence": "[[4, 2, 1], [4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[1, 3, 7, 3]",
+    "coordination": 14
+  },
+  "CNAP-115": {
+    "name": "iso_5",
+    "tags": [],
+    "folder": "patterns/CNAP-115",
+    "cna_sequence": "[[4, 3, 3], [4, 4, 4], [5, 4, 4], [5, 5, 5], [6, 6, 6]]",
+    "frequencies": "[1, 3, 3, 3, 4]",
+    "coordination": 14
+  },
+  "CNAP-116": {
+    "name": "iso_6",
+    "tags": [],
+    "folder": "patterns/CNAP-116",
+    "cna_sequence": "[[2, 0, 0], [3, 2, 2], [4, 2, 2], [5, 5, 5]]",
+    "frequencies": "[2, 3, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-117": {
+    "name": "iso_7",
+    "tags": [],
+    "folder": "patterns/CNAP-117",
+    "cna_sequence": "[[1, 0, 0], [3, 2, 2], [4, 2, 2], [5, 5, 5]]",
+    "frequencies": "[1, 4, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-118": {
+    "name": "iso_8",
+    "tags": [],
+    "folder": "patterns/CNAP-118",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2]]",
+    "frequencies": "[3, 2, 2]",
+    "coordination": 7
+  },
+  "CNAP-119": {
+    "name": "iso_9",
+    "tags": [],
+    "folder": "patterns/CNAP-119",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1]]",
+    "frequencies": "[3, 1, 2]",
+    "coordination": 6
+  },
+  "CNAP-120": {
+    "name": "iso_10",
+    "tags": [],
+    "folder": "patterns/CNAP-120",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 2, 2]",
+    "coordination": 8
+  },
+  "CNAP-121": {
+    "name": "iso_11",
+    "tags": [],
+    "folder": "patterns/CNAP-121",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 1]]",
+    "frequencies": "[1, 2, 4, 1]",
+    "coordination": 8
+  },
+  "CNAP-122": {
+    "name": "quenched?_2",
+    "tags": [],
+    "folder": "patterns/CNAP-122",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[2, 1, 2, 1, 2]",
+    "coordination": 8
+  },
+  "CNAP-123": {
+    "name": "quenched?_3",
+    "tags": [],
+    "folder": "patterns/CNAP-123",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[3, 1, 1, 2, 1]",
+    "coordination": 8
+  },
+  "CNAP-124": {
+    "name": "quenched?_4",
+    "tags": [],
+    "folder": "patterns/CNAP-124",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 2, 2, 2]",
+    "coordination": 9
+  },
+  "CNAP-125": {
+    "name": "quenched?_5",
+    "tags": [],
+    "folder": "patterns/CNAP-125",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 2, 1], [4, 3, 3]]",
+    "frequencies": "[2, 2, 3, 1]",
+    "coordination": 8
+  },
+  "CNAP-126": {
+    "name": "quenched?_6",
+    "tags": [],
+    "folder": "patterns/CNAP-126",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 1, 1, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-127": {
+    "name": "quenched?_7",
+    "tags": [],
+    "folder": "patterns/CNAP-127",
+    "cna_sequence": "[[4, 2, 1], [4, 3, 3], [4, 4, 4], [5, 4, 4]]",
+    "frequencies": "[5, 2, 1, 4]",
+    "coordination": 12
+  },
+  "CNAP-128": {
+    "name": "quenched?_8",
+    "tags": [],
+    "folder": "patterns/CNAP-128",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[2, 2, 1, 4]",
+    "coordination": 9
+  },
+  "CNAP-129": {
+    "name": "quenched?_9",
+    "tags": [],
+    "folder": "patterns/CNAP-129",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 2, 2, 2]",
+    "coordination": 9
+  },
+  "CNAP-130": {
+    "name": "quenched?_10",
+    "tags": [],
+    "folder": "patterns/CNAP-130",
+    "cna_sequence": "[[4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[5, 4, 2]",
+    "coordination": 11
+  },
+  "CNAP-131": {
+    "name": "quenched?_11",
+    "tags": [],
+    "folder": "patterns/CNAP-131",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[4, 3, 4]",
+    "coordination": 11
+  },
+  "CNAP-132": {
+    "name": "quenched?_12",
+    "tags": [],
+    "folder": "patterns/CNAP-132",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 1, 1, 1, 1, 3, 1]",
+    "coordination": 9
+  },
+  "CNAP-133": {
+    "name": "quenched?_13",
+    "tags": [],
+    "folder": "patterns/CNAP-133",
+    "cna_sequence": "[[4, 2, 1], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[8, 2, 2]",
+    "coordination": 12
+  },
+  "CNAP-134": {
+    "name": "quenched?_14",
+    "tags": [],
+    "folder": "patterns/CNAP-134",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[2, 1, 6, 2, 1]",
+    "coordination": 12
+  },
+  "CNAP-135": {
+    "name": "quenched?_15",
+    "tags": [],
+    "folder": "patterns/CNAP-135",
+    "cna_sequence": "[[3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[4, 1, 1, 2, 1]",
+    "coordination": 9
+  },
+  "CNAP-136": {
+    "name": "quenched?_16",
+    "tags": [],
+    "folder": "patterns/CNAP-136",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [5, 4, 4]]",
+    "frequencies": "[1, 3, 2, 1, 1, 1]",
+    "coordination": 9
+  },
+  "CNAP-137": {
+    "name": "quenched?_17",
+    "tags": [],
+    "folder": "patterns/CNAP-137",
+    "cna_sequence": "[[3, 1, 1], [4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 6, 2, 1]",
+    "coordination": 11
+  },
+  "CNAP-138": {
+    "name": "quenched?_18",
+    "tags": [],
+    "folder": "patterns/CNAP-138",
+    "cna_sequence": "[[3, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[2, 6, 2]",
+    "coordination": 10
+  },
+  "CNAP-139": {
+    "name": "quenched?_19",
+    "tags": [],
+    "folder": "patterns/CNAP-139",
+    "cna_sequence": "[[4, 2, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[4, 4, 2, 2]",
+    "coordination": 12
+  },
+  "CNAP-140": {
+    "name": "quenched?_20",
+    "tags": [],
+    "folder": "patterns/CNAP-140",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[1, 1, 2, 1, 3, 1]",
+    "coordination": 9
+  },
+  "CNAP-141": {
+    "name": "quenched?_21",
+    "tags": [],
+    "folder": "patterns/CNAP-141",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 2, 2, 3]",
+    "coordination": 8
+  },
+  "CNAP-142": {
+    "name": "quenched?_22",
+    "tags": [],
+    "folder": "patterns/CNAP-142",
+    "cna_sequence": "[[2, 0, 0], [3, 0, 0], [3, 1, 1], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 2, 1, 4]",
+    "coordination": 10
+  },
+  "CNAP-143": {
+    "name": "quenched?_23",
+    "tags": [],
+    "folder": "patterns/CNAP-143",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3], [5, 4, 4]]",
+    "frequencies": "[1, 1, 1, 2, 1, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-144": {
+    "name": "quenched?_24",
+    "tags": [],
+    "folder": "patterns/CNAP-144",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [5, 4, 4]]",
+    "frequencies": "[1, 2, 3, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-145": {
+    "name": "quenched?_25",
+    "tags": [],
+    "folder": "patterns/CNAP-145",
+    "cna_sequence": "[[2, 0, 0], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 3, 1, 1, 1, 1]",
+    "coordination": 8
+  },
+  "CNAP-146": {
+    "name": "quenched?_26",
+    "tags": [],
+    "folder": "patterns/CNAP-146",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 2, 2], [4, 2, 1], [4, 2, 2]]",
+    "frequencies": "[1, 2, 2, 1, 2]",
+    "coordination": 8
+  },
+  "CNAP-147": {
+    "name": "quenched?_28",
+    "tags": [],
+    "folder": "patterns/CNAP-147",
+    "cna_sequence": "[[4, 2, 1], [4, 2, 2], [4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[3, 2, 3, 3, 1]",
+    "coordination": 12
+  },
+  "CNAP-148": {
+    "name": "quenched?_29",
+    "tags": [],
+    "folder": "patterns/CNAP-148",
+    "cna_sequence": "[[2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 1], [4, 3, 3]]",
+    "frequencies": "[1, 2, 2, 1, 1]",
+    "coordination": 7
+  },
+  "CNAP-149": {
+    "name": "quenched?_30",
+    "tags": [],
+    "folder": "patterns/CNAP-149",
+    "cna_sequence": "[[2, 0, 0], [2, 1, 1], [3, 1, 1], [3, 2, 2], [4, 2, 2], [4, 3, 3]]",
+    "frequencies": "[1, 1, 1, 1, 1, 2]",
+    "coordination": 7
+  },
+  "CNAP-150": {
+    "name": "quenched?_13_3",
+    "tags": [],
+    "folder": "patterns/CNAP-150",
+    "cna_sequence": "[[4, 3, 3], [5, 4, 4], [5, 5, 5]]",
+    "frequencies": "[2, 2, 8]",
+    "coordination": 12
+  },
+  "CNAP-151": {
+    "name": "quenched?_13_4",
+    "tags": [],
+    "folder": "patterns/CNAP-151",
+    "cna_sequence": "[[2, 1, 1], [3, 2, 2], [4, 3, 3]]",
+    "frequencies": "[2, 2, 3]",
+    "coordination": 7
+  }
+}

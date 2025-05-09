@@ -1,0 +1,42 @@
+{
+  "name": "edge_15",
+  "tags": [],
+  "folder": "patterns/CNAP-44",
+  "cna_sequence": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    2,
+    2,
+    2
+  ],
+  "coordination": 6,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 4,
+    "D1(ref,BCC)-bcc-cube100": 12,
+    "D1(ref,BCC)-bcc-cube111": 9,
+    "D1(geom,Au)-Au147_InoDh": 10,
+    "D1(geom,Au)-Au561_InoDh": 20,
+    "D1(geom,Au)-Au1415_InoDh": 30,
+    "D1(geom,Au)-Au561Dh_rlx": 20,
+    "D3(Evolved, Cu)-Cu561_InoDh_evolved300K": 19,
+    "D3(Melted, Cu)-Cu561_InoDh_evolved300K": 19
+  },
+  "id": "CNAP-44"
+}

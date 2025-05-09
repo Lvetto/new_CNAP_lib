@@ -1,0 +1,81 @@
+{
+  "name": "quenched?_16",
+  "tags": [],
+  "folder": "patterns/CNAP-136",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    1,
+    3,
+    2,
+    1,
+    1,
+    1
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo005": 1,
+    "D2(Glo, Au)-glo006": 1,
+    "D2(Glo, Au)-glo002": 2,
+    "D2(Glo, Au)-glo001": 1,
+    "D2(Glo, Au200)-glo005": 1,
+    "D2(Glo, Au200)-glo006": 1,
+    "D2(Glo, Au200)-glo002": 2,
+    "D2(Glo, Au200)-glo001": 1,
+    "D2(Glo, Au310)-glo008": 1,
+    "D2(Glo, Au310)-glo012": 1,
+    "D2(Glo, Au310)-glo005": 2,
+    "D2(Glo, Au310)-glo006": 1,
+    "D2(Glo, Au310)-glo007": 1,
+    "D2(Glo, Au310)-glo011": 1,
+    "D2(Glo, Au310)-glo003": 2,
+    "D2(Glo, Au310)-glo002": 1,
+    "D2(Glo, Au310)-glo000": 1,
+    "D2(Glo, Au310)-glo004": 2,
+    "D2(Glo, Au310)-glo001": 1,
+    "D3(Coal, Au)-360_5": 2,
+    "D3(Coal, Au)-900_18": 1,
+    "D3(Coal, Au)-2730_1": 5,
+    "D3(Coal, Au)-2830_1": 5,
+    "D3(Coal, Au)-2338_24": 3,
+    "D3(Coal, Au)-456_4": 2,
+    "D3(Coal, Au)-2338_5": 2,
+    "D3(Coal, Au)-2730_12": 2,
+    "D3(Coal, Au)-102_1": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 3,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 2
+  },
+  "id": "CNAP-136"
+}

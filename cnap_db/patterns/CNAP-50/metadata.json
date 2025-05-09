@@ -1,0 +1,36 @@
+{
+  "name": "join_2",
+  "tags": [],
+  "folder": "patterns/CNAP-50",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    8,
+    1,
+    4
+  ],
+  "coordination": 13,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-1746_7": 1,
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 4,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 8
+  },
+  "id": "CNAP-50"
+}

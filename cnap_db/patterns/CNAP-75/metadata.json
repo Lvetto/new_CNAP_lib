@@ -1,0 +1,75 @@
+{
+  "name": "hcp-like?_2",
+  "tags": [],
+  "folder": "patterns/CNAP-75",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    4,
+    4,
+    2
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au)-glo005": 1,
+    "D2(Glo, Au)-glo032": 1,
+    "D2(Glo, Au)-glo041": 1,
+    "D2(Glo, Au)-glo043": 1,
+    "D2(Glo, Au)-glo003": 1,
+    "D2(Glo, Au)-glo042": 1,
+    "D2(Glo, Au)-glo002": 1,
+    "D2(Glo, Au)-glo004": 1,
+    "D2(Glo, Au)-glo001": 1,
+    "D2(Glo, Au200)-glo005": 1,
+    "D2(Glo, Au200)-glo032": 1,
+    "D2(Glo, Au200)-glo041": 1,
+    "D2(Glo, Au200)-glo043": 1,
+    "D2(Glo, Au200)-glo003": 1,
+    "D2(Glo, Au200)-glo042": 1,
+    "D2(Glo, Au200)-glo002": 1,
+    "D2(Glo, Au200)-glo004": 1,
+    "D2(Glo, Au200)-glo001": 1,
+    "D2(Glo, Au310)-glo026": 1,
+    "D2(Glo, Au310)-glo025": 1,
+    "D2(Glo, Au310)-glo012": 1,
+    "D2(Glo, Au310)-glo011": 1,
+    "D2(Glo, Au310)-glo015": 1,
+    "D2(Glo, Au310)-glo051": 1,
+    "D2(Glo, Au310)-glo003": 2,
+    "D2(Glo, Au310)-glo050": 1,
+    "D2(Glo, Au310)-glo004": 2,
+    "D2(Glo, Cu)-Cu165_bh": 10,
+    "D3(Coal, Au)-360_5": 1,
+    "D3(Coal, Au)-2730_1": 22,
+    "D3(Coal, Au)-2830_1": 21,
+    "D3(Coal, Au)-2338_24": 26,
+    "D3(Coal, Au)-456_4": 1,
+    "D3(Coal, Au)-202_1": 3,
+    "D3(Coal, Au)-2338_5": 6,
+    "D3(Coal, Au)-1746_7": 6,
+    "D3(Coal, Au)-2829_20": 14,
+    "D3(Coal, Au)-2730_20": 12,
+    "D3(Coal, Au)-2730_12": 6,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 1,
+    "D3(Melted_new, Cu)-Cu561_melt1200": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 1
+  },
+  "id": "CNAP-75"
+}

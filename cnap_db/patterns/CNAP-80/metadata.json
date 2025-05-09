@@ -1,0 +1,37 @@
+{
+  "name": "cage_4",
+  "tags": [],
+  "folder": "patterns/CNAP-80",
+  "cna_sequence": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2
+  ],
+  "coordination": 5,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Melted_new, Cu)-Cu561_melt1200": 2,
+    "D3(Melted_new, Al)-Al-melted": 2,
+    "D3(Melted_new_new, Al)-Al-melted": 2,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 2
+  },
+  "id": "CNAP-80"
+}

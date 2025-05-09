@@ -1,0 +1,50 @@
+{
+  "name": "vert_24",
+  "tags": [],
+  "folder": "patterns/CNAP-110",
+  "cna_sequence": [
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ]
+  ],
+  "frequencies": [
+    1,
+    2,
+    2,
+    4
+  ],
+  "coordination": 9,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Au)-Au822_Sph211_r15": 28,
+    "D1(geom,Au)-Au835_Sph100_r15": 12,
+    "D1(geom,Au)-Au524_sphereDh_r126": 40,
+    "D1(geom,Au)-Au811_Sph100_r15": 12,
+    "D1(geom,Au)-Au810_Sph211_r15": 20,
+    "D3(Coal, Au)-900_18": 1,
+    "D3(Coal, Au)-2730_1": 4,
+    "D3(Coal, Au)-2830_1": 4,
+    "D3(Coal, Au)-2338_5": 1,
+    "D3(Coal, Au)-2730_20": 4,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 1
+  },
+  "id": "CNAP-110"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "quenched?_19",
+  "tags": [],
+  "folder": "patterns/CNAP-139",
+  "cna_sequence": [
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      4,
+      4
+    ]
+  ],
+  "frequencies": [
+    4,
+    4,
+    2,
+    2
+  ],
+  "coordination": 12,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D2(Glo, Au310)-glo048": 1,
+    "D3(Coal, Au)-360_5": 3,
+    "D3(Coal, Au)-900_18": 2,
+    "D3(Coal, Au)-2730_1": 3,
+    "D3(Coal, Au)-2830_1": 5,
+    "D3(Coal, Au)-2338_24": 4,
+    "D3(Coal, Au)-456_4": 2,
+    "D3(Coal, Au)-883_7": 3,
+    "D3(Coal, Au)-2338_5": 5,
+    "D3(Coal, Au)-1746_7": 8,
+    "D3(Coal, Au)-2829_20": 11,
+    "D3(Coal, Au)-2730_20": 6,
+    "D3(Coal, Au)-2730_12": 2,
+    "D3(Coal, Au)-102_1": 1,
+    "D3(Evolved, Cu)-Cu561_Ih_evolved300K": 2,
+    "D3(Evolved, Cu)-Cu561_InoDh_evolved300K": 1,
+    "D3(Melted, Cu)-Cu561_Ih_evolved300K": 2,
+    "D3(Melted, Cu)-Cu561_InoDh_evolved300K": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 9,
+    "D3(Melted_new_new, Al)-traj.stair.cool.923.1947": 1
+  },
+  "id": "CNAP-139"
+}

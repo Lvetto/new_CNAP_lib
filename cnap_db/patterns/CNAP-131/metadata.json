@@ -1,0 +1,54 @@
+{
+  "name": "quenched?_11",
+  "tags": [],
+  "folder": "patterns/CNAP-131",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    4,
+    3,
+    4
+  ],
+  "coordination": 11,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu579_cubic_quenched": 10,
+    "D1(geom,Cu)-Cu568_cubic_quenched": 3,
+    "D3(Coal, Au)-900_18": 3,
+    "D3(Coal, Au)-2730_1": 14,
+    "D3(Coal, Au)-2830_1": 15,
+    "D3(Coal, Au)-102_24": 1,
+    "D3(Coal, Au)-2338_24": 9,
+    "D3(Coal, Au)-456_4": 3,
+    "D3(Coal, Au)-883_7": 45,
+    "D3(Coal, Au)-202_1": 1,
+    "D3(Coal, Au)-2338_5": 25,
+    "D3(Coal, Au)-1746_7": 77,
+    "D3(Coal, Au)-2829_20": 15,
+    "D3(Coal, Au)-2730_20": 106,
+    "D3(Coal, Au)-2730_12": 104,
+    "D3(Evolved, Cu)-Cu561_Ih_evolved300K": 1,
+    "D3(Melted, Cu)-Cu561_Ih_evolved300K": 1,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 1,
+    "D3(Melted_new, Al)-Al-melted": 1,
+    "D3(Melted_new_new, Al)-Al-melted": 1,
+    "D3(Melted_new_new, Al)-traj.stair.heat.923.849": 2
+  },
+  "id": "CNAP-131"
+}

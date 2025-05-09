@@ -1,0 +1,31 @@
+{
+  "name": "BCC-bulk",
+  "tags": [],
+  "folder": "patterns/CNAP-1",
+  "cna_sequence": [
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      6
+    ]
+  ],
+  "frequencies": [
+    6,
+    8
+  ],
+  "coordination": 14,
+  "description": "The pattern found in a perfect, periodic BCC bulk",
+  "additional_notes": "",
+  "counts": {
+    "D1(ref,BCC)-bcc-cube110": 60,
+    "D1(ref,BCC)-bcc-cube100": 112,
+    "D1(ref,BCC)-bcc-cube111": 5,
+    "D3(Coal_new, Cu)-Cu561_Co-Ih_saddle": 17
+  },
+  "id": "CNAP-1"
+}

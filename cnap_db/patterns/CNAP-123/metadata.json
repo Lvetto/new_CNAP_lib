@@ -1,0 +1,52 @@
+{
+  "name": "quenched?_3",
+  "tags": [],
+  "folder": "patterns/CNAP-123",
+  "cna_sequence": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ]
+  ],
+  "frequencies": [
+    3,
+    1,
+    1,
+    2,
+    1
+  ],
+  "coordination": 8,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D1(geom,Cu)-Cu579_cubic_quenched": 9,
+    "D3(Coal, Au)-2730_1": 3,
+    "D3(Coal, Au)-2830_1": 3,
+    "D3(Coal, Au)-2338_24": 2,
+    "D3(Coal, Au)-1746_7": 1,
+    "D3(Coal, Cu)-Cu561_Co-Ih_saddle": 1,
+    "D3(Melted_new, Cu)-Cu586_melt1200": 1
+  },
+  "id": "CNAP-123"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "join_19",
+  "tags": [],
+  "folder": "patterns/CNAP-66",
+  "cna_sequence": [
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      4,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      3,
+      3
+    ]
+  ],
+  "frequencies": [
+    3,
+    1,
+    4,
+    1,
+    1
+  ],
+  "coordination": 10,
+  "description": "",
+  "additional_notes": "",
+  "counts": {
+    "D3(Coal, Au)-2338_24": 2,
+    "D3(Coal, Au)-456_4": 2,
+    "D3(Coal, Au)-1746_7": 4,
+    "D3(Coal, Au)-2829_20": 1,
+    "D3(Coal, Au)-2730_20": 2,
+    "D3(Coal, Au)-Au594_coal_To201_Dh192_To201": 2
+  },
+  "id": "CNAP-66"
+}
